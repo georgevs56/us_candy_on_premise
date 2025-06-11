@@ -1,0 +1,6 @@
+{
+	"name": "mysql-azure-runtime",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
